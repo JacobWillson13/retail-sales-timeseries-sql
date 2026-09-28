@@ -1,0 +1,8 @@
+psycopg[binary]>=3.1
+sqlalchemy>=2.0
+python-dotenv>=1.0
+pandas>=2.0
+matplotlib>=3.8
+ipykernel
+ruptures>=1.1
+statsmodels>=0.14

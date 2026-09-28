@@ -1,0 +1,12 @@
+# secrets and local environment
+.env
+.venv/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.backup.ipynb
+
+# OS / editor
+.DS_Store
+.vscode/
